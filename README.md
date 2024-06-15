@@ -1,0 +1,1 @@
+# Projeto criado com JPA, onde podemos criar um CRUD facilmente no JAVA com esse framework, possibilitando criar tabelas, relações, constraints automaticamente. Projeto pertencente ao curso desenvolvedor fullstack JAVA da EBAC.
